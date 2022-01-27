@@ -1,0 +1,31 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(r.jpg);
+    background-size: 100%;
+}
+
+#add {
+    background-color: slategray;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    overflow: hidden;
+  }
+
+  #add:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+#mytable {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-collapse: collapse;
+    width: 55%;
+    text-align: center;
+  }
+
+  
